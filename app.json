@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "laundry",
-    "slug": "laundry",
+    "name": "ui laundry boilerpate",
+    "slug": "ui-laundry-boilerpate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -29,6 +29,8 @@
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
-    }
+    },
+    "description": "boilerpate UI laundry https://dribbble.com/shots/5397995-Laundry-App/attachments/5397995-Laundry-App?mode=media\n\n\n",
+    "githubUrl": "https://github.com/ajiehatajie/react-native-ui-laundry"
   }
 }
